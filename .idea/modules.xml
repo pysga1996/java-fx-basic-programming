@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../3d/3d.iml" filepath="$PROJECT_DIR$/../3d/3d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../charts/charts.iml" filepath="$PROJECT_DIR$/../charts/charts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/containers/containers.iml" filepath="$PROJECT_DIR$/containers/containers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controls/controls.iml" filepath="$PROJECT_DIR$/controls/controls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menu/menu.iml" filepath="$PROJECT_DIR$/menu/menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miscellaneous/miscellaneous.iml" filepath="$PROJECT_DIR$/miscellaneous/miscellaneous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shapes/shapes.iml" filepath="$PROJECT_DIR$/../shapes/shapes.iml" />
+    </modules>
+  </component>
+</project>

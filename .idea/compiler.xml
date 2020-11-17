@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="3d" />
+        <module name="menu" />
+        <module name="miscellaneous" />
+        <module name="controls" />
+        <module name="containers" />
+        <module name="shapes" />
+        <module name="charts" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="3d" target="8" />
+      <module name="charts" target="8" />
+      <module name="containers" target="8" />
+      <module name="controls" target="8" />
+      <module name="core" target="8" />
+      <module name="menu" target="8" />
+      <module name="miscellaneous" target="8" />
+      <module name="shapes" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
