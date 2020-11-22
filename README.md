@@ -1,2 +1,2 @@
 # javafx-basic-programming
-Basic JavaFX Programming
+Basic Java FX Programming
